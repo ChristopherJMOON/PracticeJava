@@ -21,5 +21,7 @@ public class Test{
         System.out.println("Hello this file has been edited by Chris");
 
         System.out.println("This String was created in the local git repo");
+
+        System.out.println("Checking to see if this line is deleted with version control.");
     }
 }
