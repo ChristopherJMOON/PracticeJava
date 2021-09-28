@@ -15,5 +15,7 @@ public class Test{
             System.out.println("This is a new line of code created " +
                     "for git hub test");
         }
+        
+        System.out.println("This is to see if any changes have occured in git repo");
     }
 }
