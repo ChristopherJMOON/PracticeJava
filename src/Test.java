@@ -17,5 +17,7 @@ public class Test{
         }
         
         System.out.println("This is to see if any changes have occured in git repo");
+        
+        System.out.println("Hello this file has been edited by Chris");
     }
 }
